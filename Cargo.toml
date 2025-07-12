@@ -1,0 +1,13 @@
+[package]
+name = "neko-watch"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "neko_watch"
+path = "src/lib.rs"
+
+[dependencies]
+ratatui = "0.26"
+crossterm = "0.27"
+chrono = "0.4"
