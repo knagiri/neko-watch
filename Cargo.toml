@@ -2,6 +2,7 @@
 name = "neko-watch"
 version = "0.1.0"
 edition = "2024"
+default-run = "neko-watch"
 
 [lib]
 name = "neko_watch"
